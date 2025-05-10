@@ -1,4 +1,5 @@
-# Dice Rolling Simulator - A Simple Dice Roll Simulation
+# Dice Rolling Simulator
+- A Simple Dice Roll Simulation
 
 This is a simple Python script that simulates the rolling of a 6-sided dice. It generates a random number between 1 and 6 whenever you "roll" the dice.
 
