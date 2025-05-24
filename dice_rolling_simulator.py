@@ -1,4 +1,6 @@
 import random
+import os
+import time
 
 # Function to simulate a dice roll
 def roll_dice():
