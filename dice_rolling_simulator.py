@@ -3,7 +3,7 @@ import time
 
 # Function to simulate a dice roll
 def roll_dice():
-    return random.randint(1, 6, 8)
+    return random.randint(1, 6, 8, 10)
 
 # Main function to prompt the user and simulate dice rolls
 def main():
