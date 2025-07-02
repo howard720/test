@@ -1,7 +1,7 @@
 import random
 import time
 
-# Function to simulate a dice roll
+# Function to simulate a dice rolls
 def roll_dice():
     return random.randint(1, 6, 8, 10)
 
